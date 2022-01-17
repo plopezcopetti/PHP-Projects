@@ -2,7 +2,8 @@
 
 /* Budget Calculator App
 
-Bob's new job has a $48,150 gross salary. Where Bob lives, there is a progressive tax system. He pays 12% (keeps 88%) on the first 9,700, 22% (keeps 78%) on the next 29,775, and pays 24% (keeps 76%) on the remainder of his salary. This data is stored in $incomeSegments.
+Bob's new job has a $48,150 gross salary. Where Bob lives, there is a progressive tax system. He pays 12% (keeps 88%) on the first 9,700, 22% (keeps 78%) on 
+the next 29,775, and pays 24% (keeps 76%) on the remainder of his salary. This data is stored in $incomeSegments.
 
 $incomeSegments is an array that contains an array for each income segment with the amount being taxed and the percent that he gets to keep. */
   
